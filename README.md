@@ -4,10 +4,13 @@
 * лектор: Александр Дьяконов
 
 
+### опрос
 [Опрос для слушателей курса](https://docs.google.com/forms/d/e/1FAIpQLScoUEOR7a8GbU1CfzuBuN9vMx2iLKZbGpzf-hnTXDuXke0Q9g/viewform) (нужна регистрация на Google.com)
 
+### страница
 [Страница курса на machinelearning.ru](http://www.machinelearning.ru/wiki/index.php?title=Введение_в_машинное_обучение)
 
+# Материалы
 
 1. [Вводная лекция](IML2018_00_intro_03.pdf) (24.09.2018)
 
