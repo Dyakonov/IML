@@ -4,7 +4,7 @@
 * лектор: Александр Дьяконов
 
 
-[https://docs.google.com/forms/d/e/1FAIpQLScoUEOR7a8GbU1CfzuBuN9vMx2iLKZbGpzf-hnTXDuXke0Q9g/viewform](Опрос для слушателей курса) (нужна регистрация на Google.com)
+[Опрос для слушателей курса](https://docs.google.com/forms/d/e/1FAIpQLScoUEOR7a8GbU1CfzuBuN9vMx2iLKZbGpzf-hnTXDuXke0Q9g/viewform) (нужна регистрация на Google.com)
 
 
 1. [Вводная лекция](IML2018_00_intro_03.pdf) (24.09.2018)
