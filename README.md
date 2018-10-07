@@ -21,8 +21,8 @@
    **Д/З:** проработать слайды, написать простые программы, пройти тест (будет выслан в рассылке)
 
    Ноутбуки в помощь:
-   * [Питон часть I - общий обзор](../python_hacks/dj_python_0_intro_20181004.ipynb)
-   * [Питон часть III - ООП](../python_hacks/dj_python_2_oop_20181004.ipynb)
-   * [Питон часть IV - тонкости](../python_hacks/dj_python_4_tonko_20181004.ipynb)
+   * [Питон часть I - общий обзор](/../python_hacks/dj_python_0_intro_20181004.ipynb)
+   * [Питон часть III - ООП](/../python_hacks/dj_python_2_oop_20181004.ipynb)
+   * [Питон часть IV - тонкости](/../python_hacks/dj_python_4_tonko_20181004.ipynb)
    
    
