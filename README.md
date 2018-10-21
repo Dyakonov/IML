@@ -25,10 +25,11 @@
    * [Питон часть III - ООП](https://github.com/Dyakonov/python_hacks/blob/master/dj_python_2_oop_20181004.ipynb)
    * [Питон часть IV - тонкости](https://github.com/Dyakonov/python_hacks/blob/master/dj_python_4_tonko_20181004.ipynb)
    
-3. [Пакеты Numpy, Scipy и Matplotlib языка программирования Питон]  (22.10.2018)
+3. [Пакеты Numpy, Scipy и Matplotlib языка программирования Питон](IML2018_03_numpy_04.pdf)  (22.10.2018)
 
    **Д/З:** написать программы, указанные на лекции
    
    Ноутбуки в помощь (из репозитория https://github.com/Dyakonov/python_hacks):
+   * [Пакеты Numpy, Scipy и Matplotlib](https://github.com/Dyakonov/python_hacks/blob/master/dj_numpy_20181021.ipynb)
    * [Кластеризация и k-means](https://github.com/Dyakonov/ml_hacks/blob/master/dj_IML_cluster_kmeans.ipynb)
    * [kNN](https://github.com/Dyakonov/ml_hacks/blob/master/dj_IML_kNN.ipynb)
