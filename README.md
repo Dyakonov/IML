@@ -36,5 +36,5 @@
    
    
    
-  5 К следующим занятиям... 
+  5. К следующим занятиям... 
    * [kNN](https://github.com/Dyakonov/ml_hacks/blob/master/dj_IML_kNN.ipynb)
