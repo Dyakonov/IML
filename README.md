@@ -78,5 +78,8 @@
    
    
    
-  5. [Пакет Scikit-Learn](IML2018_06_scikitlearn_04.pdf)  (12.11.2018 **предварительная версия**)
+  5. [Пакет Scikit-Learn](IML2018_06_scikitlearn_10.pdf)  (12-19.11.2018)
+  
+  
+  Дополнительные материалы:
    * [kNN](https://github.com/Dyakonov/ml_hacks/blob/master/dj_IML_kNN.ipynb)
