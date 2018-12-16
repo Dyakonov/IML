@@ -78,8 +78,16 @@
    
    
    
-  5. [Пакет Scikit-Learn](IML2018_06_scikitlearn_10.pdf)  (12-19.11.2018)
+  5. [Пакет Scikit-Learn](IML2018_06_scikitlearn_10.pdf)  (12-19.12.2018)
   
+  6. [Пакет Pandas](IML2018_08_pandas_01.pdf)  (17.12.2018)
+     Ноутбуки в помощь (из репозитория https://github.com/Dyakonov/ml_hacks):
+     * [Pandas](https://github.com/Dyakonov/ml_hacks/blob/master/dj_pandas_tutorial_05.ipynb)
+     
+  
+  
+  Дополнительные материалы:
+   * [kNN](https://github.com/Dyakonov/ml_hacks/blob/master/dj_IML_kNN.ipynb)
   
   Дополнительные материалы:
    * [kNN](https://github.com/Dyakonov/ml_hacks/blob/master/dj_IML_kNN.ipynb)
