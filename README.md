@@ -88,6 +88,3 @@
   
   Дополнительные материалы:
    * [kNN](https://github.com/Dyakonov/ml_hacks/blob/master/dj_IML_kNN.ipynb)
-  
-  Дополнительные материалы:
-   * [kNN](https://github.com/Dyakonov/ml_hacks/blob/master/dj_IML_kNN.ipynb)
