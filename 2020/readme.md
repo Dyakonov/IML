@@ -36,6 +36,8 @@
 
 доступны в телеграм-канале
 
+[Канал с видео](https://www.youtube.com/playlist?list=PLaRUeIuewv8DYqSdw7uVgLpXSKUFl6Ee6)
+
 ### слайды лекций
 
 | тема | программа |
