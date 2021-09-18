@@ -36,7 +36,7 @@
 
 # Материалы
 
-доступны в телеграм-канале
+[Ютуб-канал с лекциями](https://www.youtube.com/watch?v=4T3vI9xyW4Q&list=PLaRUeIuewv8DYqSdw7uVgLpXSKUFl6Ee6)
 
 ### слайды лекций
 
